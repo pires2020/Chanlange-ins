@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.menu{
+    height: 30%;
+    display: flex;
+    align-items: center;
+    background-color: rgb(247, 245, 245);
+    flex-direction: row-reverse;
+}
+.letras1{
+    flex-direction: row;
+    width: 8%;
+    font-size: 10px;
+    color: gray;
+}
+.all1{
+    flex-direction: row-reverse;
+    flex-direction: ;
+}
+.letras2{
+    display: inline;
+    display: flex;
+    font-size: 20px;
+    display: inline-block;
+    align-items: center;
+    flex-direction: row;
+
+}
